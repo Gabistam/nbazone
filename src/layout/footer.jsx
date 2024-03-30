@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="single-footer-widget">
                 <Link href="/" className="logo">
-                  <h2>AiNext</h2>
+                  <h2>Nbazone</h2>
                 </Link>
                 <p>Lorem ipsum amet, consectetur adipiscing elit. Suspendis varius enim eros elementum tristique. Duis cursus.</p>
                 <ul className="social-links">

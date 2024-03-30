@@ -9,7 +9,7 @@ const Banner = () => {
                     <div className="col-lg-6">
                         <div className="content">
                             <span className="banner-top-title">Fully Dynamic</span>
-                            <h1><span className="grd-color-1" >AiNext</span> Image Creating Solutions.</h1>
+                            <h1><span className="grd-color-1" >Nba Zone</span> Image Creating Solutions.</h1>
                             <p>Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.</p>
                             <div className="searchwrapper">
                                 <div className="searchbox">

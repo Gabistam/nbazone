@@ -1,9 +1,9 @@
 
-# AiNext Template README 🚀
+# nbazone Template README 🚀
 
 ## Technologies Utilisées 💻
 
-Ce template, situé dans le dossier `aiNext`, est idéal pour créer un site web dans l'univers de l'IA, parfait pour un portfolio ou un blog. Il utilise une combinaison de technologies modernes pour le développement d'applications web.
+Ce template, situé dans le dossier `nbazone`, est idéal pour créer un site web dans l'univers de l'IA, parfait pour un portfolio ou un blog. Il utilise une combinaison de technologies modernes pour le développement d'applications web.
 
 - **Next.js/Vite**: Accélère le développement et le bundling avec un support potentiel pour SSR avec Next.js 🏗️.
 - **ESLint**: Assure une qualité de code élevée avec une analyse statique 🧐.
@@ -49,5 +49,5 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# aiNext
+# nbazone
 

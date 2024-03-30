@@ -130,7 +130,7 @@ const Header = () => {
             <nav className="navbar navbar-expand-lg mb-nav" id="navbar">
                 <div className="container-fluid">
                     <Link className="navbar-brand" to="/">
-                        <h2>AiNext</h2>
+                        <h2>Nbazone</h2>
                     </Link>
                     <div onClick={() => setMobileNavActive(true)} className="navbar-toggler text-decoration-none">
                         <span className="burger-menu">
@@ -185,7 +185,7 @@ const Header = () => {
             <div className={`responsive-navbar ${mobileNavActive ? 'show' : ''}`} >
                 <div className="offcanvas-header">
                     <Link to="/" className="logo d-inline-block">
-                        <h2>AiNext</h2>
+                        <h2>Nbazone</h2>
                     </Link>
                     <button onClick={() => setMobileNavActive(false)} type="button" className="close-btn bg-transparent position-relative lh-1 p-0 border-0" >
                         <i className="ri-close-line"></i>
